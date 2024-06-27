@@ -21,7 +21,7 @@ This system is recommended to be base system for forks.
 - startup.lua does not return an error on version mismatch. Just a small notify.
 
 ### TODO
-- apt system for libraries and apps
-- app explorer with GUI
-- more cli tools
-- complete apply_changes.lua to reflect any changes from /system to /system/dev
+- [ ] apt system for libraries and apps
+- [ ] app explorer with GUI
+- [ ] more cli tools
+- [ ] complete apply_changes.lua to reflect any changes from /system to /system/dev
