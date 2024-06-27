@@ -1,6 +1,6 @@
 # Picotron Dev System
 This is a modified system of Picotron. It is designed for [Arc System Loader](https://github.com/TunayAdaKaracan/arc-system-loader) but can be used as a standalone system.
-This system is recommended to be base system for forks. Uses 
+This system is recommended to be base system for forks. 
 
 ## Arc System Loader Installation
 1. If not installed, install arc system loader.
