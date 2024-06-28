@@ -16,7 +16,7 @@ This system is recommended to be base system for forks.
 
 ## Features
 - require() -> Checks both current and system lib files. Returns what that file returns
-- git.lua -> git cli tool. (On development)
+- git.lua -> git cli tool. (On development, do not use)
 - Userland processes can access to kernel functions
 - startup.lua does not return an error on version mismatch. Just a small notify.
 
