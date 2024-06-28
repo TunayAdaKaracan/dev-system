@@ -6,7 +6,7 @@ This system is recommended to be base system for forks.
 1. If not installed, install arc system loader.
 2. Download dev system as a zip file
 3. Extract on /systems/dev
-4. Go to /system/boot.lua and set `selected_system` to `dev`
+4. Select `dev` as your current system
 5. Reboot
 
 ## Standalone Installation
